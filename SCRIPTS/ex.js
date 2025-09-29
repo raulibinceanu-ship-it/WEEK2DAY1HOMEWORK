@@ -23,7 +23,7 @@ let x = 12;
 
 //ESERCIZIO 5
 
-myName = "Rossi";
+//myName = "Rossi";
 
 //ESERCIZIO 6
 
